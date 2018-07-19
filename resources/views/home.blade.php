@@ -36,7 +36,7 @@
 				<tbody>
 					@if(count($result)==0)
 					<tr>
-						<td colspan="8" class="text-center">No Data</td>
+						<td colspan="5" class="text-center">No Data</td>
 					</tr>
 					@else
 						@php   
